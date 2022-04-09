@@ -1,0 +1,3 @@
+scrapy crawl sscholar
+
+scrapy crawl sscholar -o items.json/.csv/.xml
